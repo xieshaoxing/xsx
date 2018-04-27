@@ -8,4 +8,5 @@ public interface UserService {
 
 	public void add(User user);
 	public void delete(String id);
+	public void delet(String id);
 }
